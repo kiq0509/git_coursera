@@ -1,4 +1,4 @@
-largura = int(input('digite a largura: '))
+largura = int(input('digite a largura: ')) -1
 altura = int(input('digite a altura: '))
 
 cont_l = 0
